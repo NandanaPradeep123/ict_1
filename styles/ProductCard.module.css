@@ -1,0 +1,30 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: beige;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .price {
+    color: rgb(14, 11, 12);
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .category {
+    color: #bc4c4c;
+    font-size: 12px;
+  }

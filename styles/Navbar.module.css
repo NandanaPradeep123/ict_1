@@ -1,0 +1,17 @@
+.navbar {
+    background-color: rgb(170, 170, 153);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .navlink {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navlink:hover {
+    text-decoration: underline;
+  }
